@@ -1,0 +1,35 @@
+{
+  "name": "rit-unique-code",
+  "version": "1.0.0",
+  "description": "\u001b[2~\u001b[2~An opensource PHP Library to generate huge amount of professional unique codes.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aupr/RitUniqueCode.git"
+  },
+  "keywords": [
+    "\"php",
+    "unique",
+    "code",
+    "generator\"",
+    "\"rit",
+    "unique",
+    "code",
+    "library\"",
+    "\"php",
+    "unique",
+    "code",
+    "library\"",
+    "\"php",
+    "uniquecode\""
+  ],
+  "author": "Aman Ullah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aupr/RitUniqueCode/issues"
+  },
+  "homepage": "https://github.com/aupr/RitUniqueCode#readme",
+}
