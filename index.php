@@ -29,7 +29,7 @@
         <div class="codeBox">
             <code>
                 &lt;?php<br>
-                    &nbsp;&nbsp;include "uniquecode.php";<br>
+                    &nbsp;&nbsp;include "rituniquecode.php";<br>
                     &nbsp;&nbsp;<br>
                     &nbsp;&nbsp;$uq = new uniquecode();
                     &nbsp;&nbsp;<br>
@@ -46,7 +46,7 @@
         <br><b>Result:</b>
         <div class="resultBox">
             <?php
-                include "uniquecode.php";
+                include "rituniquecode.php";
 
                 $uq = new uniquecode();
 
@@ -66,7 +66,7 @@
         <div class="codeBox">
             <code>
                 &lt;?php<br>
-                &nbsp;&nbsp;include "uniquecode.php";<br>
+                &nbsp;&nbsp;include "rituniquecode.php";<br>
                 &nbsp;&nbsp;<br>
                 &nbsp;&nbsp;$uq = new uniquecode();
                 &nbsp;&nbsp;<br>
@@ -88,7 +88,7 @@
         <br><b>Result:</b>
         <div class="resultBox">
             <?php
-            //include "uniquecode.php";
+            //include "rituniquecode.php";
 
             //$uq = new uniquecode();
 
@@ -113,7 +113,7 @@
         <div class="codeBox">
             <code>
                 &lt;?php<br>
-                &nbsp;&nbsp;include "uniquecode.php";<br>
+                &nbsp;&nbsp;include "rituniquecode.php";<br>
                 &nbsp;&nbsp;<br>
                 &nbsp;&nbsp;$uq = new uniquecode();
                 &nbsp;&nbsp;<br>
@@ -137,7 +137,7 @@
         <br><b>Result:</b>
         <div class="resultBox">
             <?php
-            //include "uniquecode.php";
+            //include "rituniquecode.php";
 
             //$uq = new uniquecode();
 
