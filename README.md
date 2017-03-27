@@ -2,9 +2,9 @@
 An opensource PHP Library to generate huge amount of professional unique codes.
 
 
-####Using Procedure:
+###Using Procedure:
 
-#####Here is an example code:
+**Here is an example code:**
 ```
 <?php
 
@@ -30,7 +30,7 @@ An opensource PHP Library to generate huge amount of professional unique codes.
 ?>
 ```
 
-#####Output: 
+**Output:** 
 ```
     Array
     (
@@ -148,7 +148,7 @@ An opensource PHP Library to generate huge amount of professional unique codes.
 ```
 
 
-####List of public methods:
+###List of public methods:
 
 - `void pushDigits( void )`
 - `void pushUppercase( void )`
@@ -164,7 +164,7 @@ An opensource PHP Library to generate huge amount of professional unique codes.
 - `string codeCompose( string $string )`
 - `array generateCode( int $quantity [, bool $ordered = false [, string $starter = "-1" ]] )`
 
-####License:
+###License:
 
 > RitUniqueCode is free php library: you can redistribute it and/or modify it
   under the terms of the MIT License. Please read the LICENSE file for more details.
