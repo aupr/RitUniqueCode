@@ -31,7 +31,7 @@
                 &lt;?php<br>
                     &nbsp;&nbsp;include "rituniquecode.php";<br>
                     &nbsp;&nbsp;<br>
-                    &nbsp;&nbsp;$uq = new uniquecode();
+                    &nbsp;&nbsp;$uq = new rituniquecode();
                     &nbsp;&nbsp;<br>
                     &nbsp;&nbsp;$uq->pushDigits();<br>
                     &nbsp;&nbsp;$uq->pushUppercase();<br>
@@ -48,7 +48,7 @@
             <?php
                 include "rituniquecode.php";
 
-                $uq = new uniquecode();
+                $uq = new rituniquecode();
 
                 $uq->pushDigits();
                 $uq->pushUppercase();
@@ -68,7 +68,7 @@
                 &lt;?php<br>
                 &nbsp;&nbsp;include "rituniquecode.php";<br>
                 &nbsp;&nbsp;<br>
-                &nbsp;&nbsp;$uq = new uniquecode();
+                &nbsp;&nbsp;$uq = new rituniquecode();
                 &nbsp;&nbsp;<br>
                 &nbsp;&nbsp;$uq->pushDigits();<br>
                 &nbsp;&nbsp;$uq->pushUppercase();<br>
@@ -90,7 +90,7 @@
             <?php
             //include "rituniquecode.php";
 
-            //$uq = new uniquecode();
+            //$uq = new rituniquecode();
 
             //$uq->pushDigits();
             //$uq->pushUppercase();
@@ -115,7 +115,7 @@
                 &lt;?php<br>
                 &nbsp;&nbsp;include "rituniquecode.php";<br>
                 &nbsp;&nbsp;<br>
-                &nbsp;&nbsp;$uq = new uniquecode();
+                &nbsp;&nbsp;$uq = new rituniquecode();
                 &nbsp;&nbsp;<br>
                 &nbsp;&nbsp;$uq->pushDigits();<br>
                 &nbsp;&nbsp;$uq->pushUppercase();<br>
@@ -139,7 +139,7 @@
             <?php
             //include "rituniquecode.php";
 
-            //$uq = new uniquecode();
+            //$uq = new rituniquecode();
 
             //$uq->pushDigits();
             //$uq->pushUppercase();
